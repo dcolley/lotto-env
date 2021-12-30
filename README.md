@@ -55,6 +55,7 @@ python3 lotto_main.py
 
 # Refs & cudos
 Inspiration from the examples from Dr. Phil Tabor
+* https://github.com/philtabor/Youtube-Code-Repository
 * https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
 * https://www.youtube.com/watch?v=vmrqpHldAQ0
 * https://www.youtube.com/watch?v=w1jd0Dpbc2o
