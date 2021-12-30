@@ -1,6 +1,11 @@
 # LottoEnv
 OpenAI gym and agent for UK Lottery
 
+### Status
+* gym - beta, handles single ticket
+* agent - wip
+* gym, multiple tickets - planned
+
 # Premise
 ### The Goal
 Train an agent to beat the UK National Lottery
