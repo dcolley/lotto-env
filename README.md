@@ -1,5 +1,5 @@
 # LottoEnv
-OpenAI gym and agent for UK Lottery
+<a href="https://gym.openai.com/" target="_blank">OpenAI Gym</a> and Agent for <a href="https://www.national-lottery.co.uk/" target="_blank">UK National Lottery</a>
 
 ### Status
 * gym - beta, handles single ticket
@@ -41,12 +41,19 @@ The Agent should decide:
 * lucky-dip or select own numbers
 * starting capital = £10000
 
-# Dependencies
+# Usage
+```
+git clone https://github.com/dcolley/lotto-env
+cd lotto-env
+pip3 install gym tensorflow numpy random matplotlib
+python3 lotto_main.py
+```
+
+### Dependencies
 * tensorflow 2
 * python 3
 
-
-# Refs
+# Refs & cudos
 Inspiration from the examples from Dr. Phil Tabor
 * https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
 * https://www.youtube.com/watch?v=vmrqpHldAQ0
